@@ -4,7 +4,7 @@ const Header = () => {
     return(
         <nav className="navbar navbar-light">
             <h1 className="navbar-brand font-weight-bold " href="/">
-                Noticias Actuales
+                BREAKING NEWS
             </h1>             
         </nav>
     )
